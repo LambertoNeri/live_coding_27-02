@@ -1,1 +1,4 @@
-prova
+selettori:
+ID (unico)
+class (può essere assegnato a piu elementi)
+direttamente il tag (prende tutti i tag uguali, poco usato)
