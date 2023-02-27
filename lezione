@@ -1,14 +1,27 @@
                                   >>>>SELETTORI<<<<
+
+
 ID (unico) si seleziona con #
 class (può essere assegnato a piu elementi) si seleziona con .
 direttamente il tag (prende tutti i tag uguali, poco usato) inserire direttamente il tag 
--------------------------------------------------------------------------------------
 
-                                 >>>>PROPRIETA'<<<<
+-------------------------------------------------------------------------------------
+                               >>>>PROPRIETA'<<<<
+
 
 background: imposta lo sfondo elemento
-<strong>color</strong>: colore testo
-width: definisce largezza del blocco
-height: definisce altezza del blocco 
-border: imposta il colore e lo stile del bordo                            
+COLOR colore testo
+WIDTH: definisce largezza del blocco
+HEIGHT: definisce altezza del blocco 
+BORDER: imposta il colore e lo stile del bordo                            
 
+-------------------------------------------------------------------------------------
+                                >>>>PROPRIETA' FONT<<<<
+
+font-family: Arial, Verdana; (nomi dei font)  fonts.google.com
+font-size: dimensione (del font)
+font-weight:  (spessore font)
+mettere il link di un font non applicerà il font alla pagina, selezionare il font con "font-family" tramite link google
+-------------------------------------------------------------------------------------
+
+mettere il link di un font
