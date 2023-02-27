@@ -1,4 +1,14 @@
-selettori:
-ID (unico)
-class (può essere assegnato a piu elementi)
-direttamente il tag (prende tutti i tag uguali, poco usato)
+                                  >>>>SELETTORI<<<<
+ID (unico) si seleziona con #
+class (può essere assegnato a piu elementi) si seleziona con .
+direttamente il tag (prende tutti i tag uguali, poco usato) inserire direttamente il tag 
+-------------------------------------------------------------------------------------
+
+                                 >>>>PROPRIETA'<<<<
+
+background: imposta lo sfondo elemento
+<strong>color</strong>: colore testo
+width: definisce largezza del blocco
+height: definisce altezza del blocco 
+border: imposta il colore e lo stile del bordo                            
+
